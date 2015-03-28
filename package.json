@@ -1,0 +1,16 @@
+{
+  "name": "openculturemanifesto.org",
+  "version": "0.1.0",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-concat": "^2.4.3",
+    "gulp-jshint": "^1.9.2",
+    "gulp-minify-css": "^0.3.11",
+    "gulp-rename": "^1.2.0",
+    "gulp-sass": "^1.1.0",
+    "gulp-uglifyjs": "^0.6.0",
+    "run-sequence": "^1.0.2"
+  },
+  "private": true
+}
