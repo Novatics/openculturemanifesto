@@ -2,7 +2,7 @@
 
 This was designed to be a conversation starter for founders and a blueprint for companies to implement real cultural values, outside of perks.
 
-Read the full story of [why every startup should have a culture manifesto](http://martinbuberl.com/blog/why-every-startup-should-have-a-cuture-manifesto/).
+Check out “[The Culture Test: Eight steps to better company culture](http://martinbuberl.com/blog/the-culture-test-eight-steps-to-better-company-culture/)” and read the full story of [why every startup should have a culture manifesto](http://martinbuberl.com/blog/why-every-startup-should-have-a-cuture-manifesto/).
 
 ### Manifesto
 
