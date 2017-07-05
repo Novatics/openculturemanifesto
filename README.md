@@ -23,8 +23,8 @@ Check out “[The Culture Test: Eight steps to better company culture](http://ma
 
 **_We are Transparent_**
 
-* We default to transparency, truth and trust
-* We share our decisions, failures and strengths
+* Our foundation is transparency, trust and integrity
+* We share our decisions, successes and failures
 
 **_We are Diverse_**
 
